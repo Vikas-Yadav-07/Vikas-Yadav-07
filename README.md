@@ -1,1 +1,1 @@
-- 👋 Hi, There;
+- 👋 Coding is just about how good you are in solving problems
